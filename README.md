@@ -1,2 +1,2 @@
 # AndroidCalc!
-![Calc pic]("C:\Users\harir\OneDrive\Desktop\Amrita\Calc pic.jpg")
+![Calc pic](Calcpic.jpg)
